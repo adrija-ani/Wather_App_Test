@@ -75,7 +75,6 @@ A comprehensive weather application that provides real-time weather data, 5-day 
 
 3. **API Configuration**:
    - The app uses OpenWeatherMap API
-   - API key is pre-configured: `795d59c4e358cb1e5a953ccb689a4878`
    - For production use, replace with your own API key
 
 ### No Installation Required
