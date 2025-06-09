@@ -208,12 +208,6 @@ The app is fully responsive and includes:
 - Vercel: Git-based deployment
 - Surge.sh: Command-line deployment
 
-## 🎯 PM Accelerator Integration
-
-- **Info Button**: Click the ℹ️ button in the top-right corner
-- **Company Information**: Displays Product Manager Accelerator details
-- **LinkedIn**: Direct link to PM Accelerator LinkedIn page
-
 ## 🔄 Future Enhancements
 
 - **Backend Integration**: Replace localStorage with real database
